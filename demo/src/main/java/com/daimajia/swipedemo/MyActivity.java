@@ -37,6 +37,7 @@ public class MyActivity extends Activity {
 
             }
         });
+        //dsafsd
 
         sample1.findViewById(R.id.star2).setOnClickListener(new View.OnClickListener() {
             @Override
